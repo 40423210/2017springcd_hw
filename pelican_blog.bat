@@ -1,0 +1,1 @@
+pelican content -o blog -s local_publishconf.py
