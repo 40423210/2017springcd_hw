@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-02-22T15:00:00+08:00</updated><entry><title>2017Spring 協同產品設計實習</title><link href="./2017spring-cd-w1.html" rel="alternate"></link><published>2017-02-22T15:00:00+08:00</published><updated>2017-02-22T15:00:00+08:00</updated><author><name>40423210</name></author><id>tag:,2017-02-22:./2017spring-cd-w1.html</id><summary type="html">&lt;h2&gt;更改 stunnel.conf 的 IP 設定&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-01T16:00:00+08:00</updated><entry><title>2017/03/01 W2</title><link href="./2017spring-cd-W2.html" rel="alternate"></link><published>2017-03-01T16:00:00+08:00</published><updated>2017-03-01T16:00:00+08:00</updated><author><name>40423210</name></author><id>tag:,2017-03-01:./2017spring-cd-W2.html</id><summary type="html">&lt;h2&gt;分組座位程式碼&lt;/h2&gt;
+&lt;pre class="brush: python"&gt;
+
+&lt;h1&gt;import os&lt;/h1&gt;
+&lt;p&gt;adata = open("w2b_cadlab.txt", encoding="utf-8").read()&lt;/p&gt;
+&lt;h1&gt;讀取w2b_cadlab.txt 檔案,讓裡面的內容成為資料, 因為檔案裡有中文, 所以設定encoding 使用utf-8 的編驛碼&lt;/h1&gt;
+&lt;p&gt;rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()&lt;/p&gt;
+&lt;h1&gt;print(adata)&lt;/h1&gt;
+&lt;h1&gt;用print 先檢查資料是否是我們需要的&lt;/h1&gt;
+&lt;p&gt;alist = adata.splitlines()&lt;/p&gt;
+&lt;h1&gt;利用splitlines 的方法把資料隔開, 就可以得到一個特定的數列&lt;/h1&gt;
+&lt;h1&gt;print(alist[2])&lt;/h1&gt;
+&lt;p&gt;n = 0
+row = 0
+final_list = []
+w2_list = []
+for stud_num in alist[2:]:&lt;/p&gt;
+&lt;h1&gt;從第2列開始, 因為第0列和第1列都不是我們要的&lt;/h1&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;row = row + 1
+blist = stud_num.split(&amp;quot;\t&amp;quot;)
+#print(blist)
+column = 0
+#為了避免序號連續, 利用column = 0 將順序重製, 因為每一列算完之後要換下一列重新開始
+for i in range(len(blist)):
+    column = column + 1
+    if blist[i] != &amp;quot;&amp;quot;:
+        #print(blist[i])
+        clist = blist[i].split(&amp;quot;_&amp;quot;)
+        stud_data = clist[0]+&amp;quot;_&amp;quot;+clist[1]+&amp;quot;_&amp;quot;+str(row)+&amp;quot;_&amp;quot;+str(column)
+        final_list.append(stud_data)
+        w2_list.append(clist[1])
+        n = n +1
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h1&gt;根據數列前導字串排序, 目的在建立分組數列&lt;/h1&gt;
+&lt;p&gt;group_list = sorted(final_list)
+print("分組名單:")
+for i in range(len(group_list)):
+    print(group_list[i])
+print("座位列表:")
+for i in range(len(final_list)):
+    print(final_list[i])
+for i in range(len(rdata)):
+    if rdata[i] not in w2_list:
+        print("缺席學生:", rdata[i])
+print("學生總數:", n)&lt;/p&gt;
+&lt;h1&gt;print(os.environ)&lt;/h1&gt;
+&lt;/pre&gt;
+
+&lt;h2&gt;Solvespace 組立四連桿&lt;/h2&gt;
+&lt;p&gt;先畫出Link 30、Link50、Link60&lt;/p&gt;
+&lt;p&gt;Link30&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/208421021" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/208421021"&gt;Link-30&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Link50&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/208419586" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/208419586"&gt;Link-50&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Link60&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/208420761" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/208420761"&gt;Link-60&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;開始組立成四連桿&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/208423680" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/208423680"&gt;Fourbar(solve space)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;心得:這週的作業是用solvespace畫出四連桿機構，覺得蠻有趣的，過程中畫錯不少次，但是總會有成功的一天。&lt;/p&gt;</summary><category term="Notes  w2"></category></entry><entry><title>2017/02/22 W1</title><link href="./2017spring-cd-W1.html" rel="alternate"></link><published>2017-02-22T15:00:00+08:00</published><updated>2017-02-22T15:00:00+08:00</updated><author><name>40423210</name></author><id>tag:,2017-02-22:./2017spring-cd-W1.html</id><summary type="html">&lt;h2&gt;更改 stunnel.conf 的 IP 設定&lt;/h2&gt;
 &lt;iframe src="https://player.vimeo.com/video/207314525" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/207314525"&gt;2017-03-08作業&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;心得:這學期的作業會越來越繁重，之後的進度要跟上，這禮拜的作業是修改stuunel的IP設定，算是ok的&lt;/p&gt;</summary><category term="notes  w1"></category></entry><entry><title>Fossil SCM 簡介</title><link href="./intro-fossil-scm.html" rel="alternate"></link><published>2017-02-17T11:00:00+08:00</published><updated>2017-02-17T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-17:./intro-fossil-scm.html</id><summary type="html">&lt;p&gt;Fossil SCM 是一套軟體配置管理 (Software Configuration Management) 系統, 其中包含分散式版次控管 (DVC, Distributed Version Control) 、&lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/wikitheory.wiki"&gt;Wiki&lt;/a&gt; 、&lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/bugtheory.wiki"&gt;Bug Tracking&lt;/a&gt; 與 &lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/event.wiki"&gt;Technote&lt;/a&gt; 等功能, 可以用來控制及追蹤軟體開發專案, 並且紀錄專案開發歷程, 在協同產品設計實習課程中, 我們除了使用 git、github 與 bitbucket 之外, 將要在區域網路與系上主幹中, 配置每班兩台的 Fossil SCM 實習主機.&lt;/p&gt;
+&lt;p&gt;心得:這學期的作業會越來越繁重，之後的進度要跟上，這禮拜的作業是修改stuunel的IP設定，算是ok的&lt;/p&gt;</summary><category term="Notes  w1"></category></entry><entry><title>Fossil SCM 簡介</title><link href="./intro-fossil-scm.html" rel="alternate"></link><published>2017-02-17T11:00:00+08:00</published><updated>2017-02-17T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-17:./intro-fossil-scm.html</id><summary type="html">&lt;p&gt;Fossil SCM 是一套軟體配置管理 (Software Configuration Management) 系統, 其中包含分散式版次控管 (DVC, Distributed Version Control) 、&lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/wikitheory.wiki"&gt;Wiki&lt;/a&gt; 、&lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/bugtheory.wiki"&gt;Bug Tracking&lt;/a&gt; 與 &lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/event.wiki"&gt;Technote&lt;/a&gt; 等功能, 可以用來控制及追蹤軟體開發專案, 並且紀錄專案開發歷程, 在協同產品設計實習課程中, 我們除了使用 git、github 與 bitbucket 之外, 將要在區域網路與系上主幹中, 配置每班兩台的 Fossil SCM 實習主機.&lt;/p&gt;
 
 
 &lt;h2&gt;Fossil SCM&lt;/h2&gt;

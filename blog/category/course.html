@@ -123,14 +123,37 @@
         <div class="col-sm-9">
 
             <article>
-                <h2><a href="../2017spring-cd-w1.html">2017Spring 協同產品設計實習</a></h2>
+                <h2><a href="../2017spring-cd-W2.html">2017/03/01 W2</a></h2>
+                <div class="summary"><h2>分組座位程式碼</h2>
+<pre class="brush: python">
+
+<h1>import os</h1>
+<p>adata = open("w2b_cadlab.txt", encoding="utf-8").read()</p>
+<h1>讀取w2b_cadlab.txt 檔案,讓裡面的內容成為資料, 因為檔案裡有中文, 所以設定encoding 使用utf-8 的編驛碼</h1>
+<p>rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()</p>
+<h1>print(adata)</h1>
+<h1>用print 先檢查資料是否是我們需要的</h1>
+<p>alist = adata.splitlines()</p>
+<h1>利用splitlines 的方法把資料隔開, 就可以得到一個特定的數列</h1>
+<h1>print(alist[2])</h1>
+<p>n = 0
+row = 0
+final_list = []
+w2_list = []
+for stud_num in alist[2 ...</p></pre>
+                    <a class="btn btn-default btn-xs" href="../2017spring-cd-W2.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="../2017spring-cd-W1.html">2017/02/22 W1</a></h2>
                 <div class="summary"><h2>更改 stunnel.conf 的 IP 設定</h2>
 <iframe src="https://player.vimeo.com/video/207314525" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p><a href="https://vimeo.com/207314525">2017-03-08作業</a> from <a href="https://vimeo.com/user61434176">40423210</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <p>心得:這學期的作業會越來越繁重，之後的進度要跟上，這禮拜的作業是修改stuunel的IP設定，算是ok的</p>
-                    <a class="btn btn-default btn-xs" href="../2017spring-cd-w1.html">more ...</a>
+                    <a class="btn btn-default btn-xs" href="../2017spring-cd-W1.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -177,8 +200,13 @@
             <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
                 <ul class="list-group" id="recentposts">
                     <li class="list-group-item">
-                        <a href="../2017spring-cd-w1.html">
-                            2017Spring 協同產品設計實習
+                        <a href="../2017spring-cd-W2.html">
+                            2017/03/01 W2
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="../2017spring-cd-W1.html">
+                            2017/02/22 W1
                         </a>
                     </li>
                     <li class="list-group-item">
@@ -194,11 +222,6 @@
                     <li class="list-group-item">
                         <a href="../brython-editor.html">
                             網際 Brython 程式執行環境
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="../2017spring-cd.html">
-                            2017Spring 協同產品設計實習
                         </a>
                     </li>
                 </ul>
