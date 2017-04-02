@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>Articles by 40423210 - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
+    <title>Notes  w6 - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -11,7 +11,8 @@
 
 
 
-        <meta name="author" content="KMOL" />
+    <meta name="author" content="KMOL" />
+    <meta name="keywords" content="Notes  w6" />
 
     <!-- Open Graph tags -->
         <meta property="og:site_name" content="2017Spring 協同產品設計實習 (虎尾科大MDE)" />
@@ -134,100 +135,6 @@
                 </div>
             </article>
             <hr/>
-            <article>
-                <h2><a href="../2017spring-cd-W5.html">2017/03/22 W5</a></h2>
-                <div class="summary"><h2>將單連桿轉入v-rep進行運動模擬</h2>
-<p><iframe src="https://player.vimeo.com/video/210535267" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/210535267">solvespace匯入v-rep加馬達</a> from <a href="https://vimeo.com/user61434176">40423210</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
-<p>心得:一開始以為加顆馬達非常簡單，結果步驟卻是一大堆，可是重複做就會變得蠻熟悉的。</p>
-                    <a class="btn btn-default btn-xs" href="../2017spring-cd-W5.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="../2017spring-cd-W4.html">2017/03/15 W4</a></h2>
-                <div class="summary"><h2>Fossil SCM倉儲</h2>
-<p><p>每組要在https://mde2a2.kmol.info 主機上建倉儲:<a href="https://mde2a2.kmol.info/cdbg5">https://mde2a2.kmol.info/cdbg5</a></p></p>
-<h2>單連桿機構</h2>
-<p><p>用solvespace繪製</p>
-<button onClick="lity('https://vimeo.com/209043749')"><span class="glyphicon glyphicon-facetime-video"></span> 單連桿</button></p>
-<p>用onshape繪製</p>
-
-<p><button onClick="lity('https://vimeo.com/209062161')"><span class="glyphicon glyphicon-facetime-video"></span> 單連桿</button></p>
-<p>用solvespace轉入v-rep</p>
-
-<p><button onClick="lity('https://vimeo.com/211058729')"><span class="glyphicon glyphicon-facetime-video"></span> 單連桿轉v-rep</button></p>
-<p>用onshape轉入v-rep</p>
-
-<p><button onClick="lity('https://vimeo.com/211076919')"><span class="glyphicon glyphicon-facetime-video"></span> 單連桿轉v-rep</button></p>
-<h2>四連桿機構</h2>
-<p><p>用onshape繪製</p>
-<button onClick="lity('https://vimeo.com/208996140')"><span class="glyphicon glyphicon-facetime-video"></span> 四連桿</button></p>
-<p>用onshape轉入v-rep</p>
-
-<p><button onClick="lity('https://vimeo.com/209421758')"><span class="glyphicon glyphicon-facetime-video"></span> 四連桿轉v-rep</button></p>
-<p>心得:這禮拜要建立好各組的倉儲，每位組員要分工合作，也期許我的partner能一起加油。</p>
-                    <a class="btn btn-default btn-xs" href="../2017spring-cd-W4.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="../2017spring-cd-W3.html">2017/03/08 W3</a></h2>
-                <div class="summary"><h3>HyperWorks 14.0 Student Edition</h3>
-
-<p>Student Edition: <a href="http://www.altairuniversity.com/get-the-free-hyperworks-14-0-student-edition/">Download Now!</a></p>
-
-<h3>近端 Fossil</h3>
-
-<p>1. 更改 Start.bat 設定</p>
-
-<pre class="brush: python">
-REM tiny2017 主要針對初學 Python3 與 C 學員所建立
-REM 近端使用 fossil 管理資料版本, 並且定時轉為 git 格式後上傳到 github
-@echo off
-REM 設定 y 硬碟代號與 data 目錄對應
-set Disk=y
-subst %Disk%: "data"
-REM 設定 leo 相關對應 Home ...</pre>
-                    <a class="btn btn-default btn-xs" href="../2017spring-cd-W3.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="../2017spring-cd-W2.html">2017/03/01 W2</a></h2>
-                <div class="summary"><h2>分組座位程式碼</h2>
-<pre class="brush: python">
-
-<h1>import os</h1>
-<p>adata = open("w2b_cadlab.txt", encoding="utf-8").read()</p>
-<h1>讀取w2b_cadlab.txt 檔案,讓裡面的內容成為資料, 因為檔案裡有中文, 所以設定encoding 使用utf-8 的編驛碼</h1>
-<p>rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()</p>
-<h1>print(adata)</h1>
-<h1>用print 先檢查資料是否是我們需要的</h1>
-<p>alist = adata.splitlines()</p>
-<h1>利用splitlines 的方法把資料隔開, 就可以得到一個特定的數列</h1>
-<h1>print(alist[2])</h1>
-<p>n = 0
-row = 0
-final_list = []
-w2_list = []
-for stud_num in alist[2 ...</p></pre>
-                    <a class="btn btn-default btn-xs" href="../2017spring-cd-W2.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="../2017spring-cd-W1.html">2017/02/22 W1</a></h2>
-                <div class="summary"><h2>更改 stunnel.conf 的 IP 設定</h2>
-<iframe src="https://player.vimeo.com/video/207314525" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<p><a href="https://vimeo.com/207314525">2017-03-08作業</a> from <a href="https://vimeo.com/user61434176">40423210</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<p>心得:這學期的作業會越來越繁重，之後的進度要跟上，這禮拜的作業是修改stuunel的IP設定，算是ok的</p>
-                    <a class="btn btn-default btn-xs" href="../2017spring-cd-W1.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
 
         </div>
         <div class="col-sm-3" id="sidebar">
@@ -241,26 +148,6 @@ for stud_num in alist[2 ...</p></pre>
                     <li class="list-group-item">
                         <a href="../2017spring-cd-W6.html">
                             2017/03/29 W6
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="../2017spring-cd-W5.html">
-                            2017/03/22 W5
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="../2017spring-cd-W4.html">
-                            2017/03/15 W4
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="../2017spring-cd-W3.html">
-                            2017/03/08 W3
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="../2017spring-cd-W2.html">
-                            2017/03/01 W2
                         </a>
                     </li>
                 </ul>
