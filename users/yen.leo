@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -36,18 +36,109 @@
 <v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
+<v t="yen.20170120110024.9"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20170403201533.1"><vh>20170222 w1</vh>
+<v t="leo.20170403201533.2" a="E"><vh>w1-1</vh>
+<v t="leo.20170403201533.3"><vh>內容</vh></v>
 </v>
-<v t="yen.20170120110024.14" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
+<v t="leo.20170403201533.4"><vh>w1-2</vh>
+<v t="leo.20170403201533.5"><vh>內容</vh></v>
 </v>
-<v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
-<v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
+<v t="leo.20170403201533.6" a="E"><vh>w1-3</vh>
+<v t="leo.20170403201533.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170403201655.1"><vh>20170301 w2</vh>
+<v t="leo.20170403201655.2" a="E"><vh>w2-1</vh>
+<v t="leo.20170403201655.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170403201655.4" a="E"><vh>w2-2</vh>
+<v t="leo.20170403201655.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170403201655.6" a="E"><vh>w2-3</vh>
+<v t="leo.20170403201655.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20170403201655.8" a="E"><vh>w2-4</vh>
+<v t="leo.20170403201655.9"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170403201658.1"><vh>20170308 w3</vh>
+<v t="leo.20170403201658.2" a="E"><vh>w3-1</vh>
+<v t="leo.20170403201658.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170403201658.4" a="E"><vh>w3-2</vh>
+<v t="leo.20170403201658.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170403201658.6" a="E"><vh>w3-3</vh>
+<v t="leo.20170403201658.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20170403201658.8" a="E"><vh>w3-4</vh>
+<v t="leo.20170403201658.9"><vh>內容</vh></v>
+</v>
+<v t="leo.20170403201658.10" a="E"><vh>w3-5</vh>
+<v t="leo.20170403201658.11"><vh>內容</vh></v>
+</v>
+<v t="leo.20170403201658.12" a="E"><vh>w3-6</vh>
+<v t="leo.20170403201658.13"><vh>內容</vh></v>
+</v>
+<v t="leo.20170403201658.14" a="E"><vh>w3-7</vh>
+<v t="leo.20170403201658.15"><vh>內容</vh></v>
+</v>
+<v t="leo.20170403201658.16" a="E"><vh>w3-8</vh>
+<v t="leo.20170403201658.17"><vh>內容</vh></v>
+</v>
+<v t="leo.20170403201658.18" a="E"><vh>w3-9</vh>
+<v t="leo.20170403201658.19"><vh>內容</vh></v>
+</v>
+<v t="leo.20170403201658.20" a="E"><vh>w3-10</vh>
+<v t="leo.20170403201658.21"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170404163414.1"><vh>20170315 w4</vh>
+<v t="leo.20170404163414.2" a="E"><vh>w4-1</vh>
+<v t="leo.20170404163414.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170404163414.4" a="E"><vh>w4-2</vh>
+<v t="leo.20170404163414.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170404163414.6" a="E"><vh>w4-3</vh>
+<v t="leo.20170404163414.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20170404163414.8" a="E"><vh>w4-4</vh>
+<v t="leo.20170404163414.9"><vh>內容</vh></v>
+</v>
+<v t="leo.20170404163414.10" a="E"><vh>w4-5</vh>
+<v t="leo.20170404163414.11"><vh>內容</vh></v>
+</v>
+<v t="leo.20170404163414.12" a="E"><vh>w4-6</vh>
+<v t="leo.20170404163414.13"><vh>內容</vh></v>
+</v>
+<v t="leo.20170404163414.14" a="E"><vh>w4-7</vh>
+<v t="leo.20170404163414.15"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170403201702.1" a="E"><vh>20170322 w5</vh>
+<v t="leo.20170403201702.2" a="E"><vh>w5-1</vh>
+<v t="leo.20170403201702.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170403201702.4" a="E"><vh>w5-2</vh>
+<v t="leo.20170403201702.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170403201702.6" a="E"><vh>w5-3</vh>
+<v t="leo.20170403201702.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170404172405.1" a="E"><vh>20170329 w6</vh>
+<v t="leo.20170404172405.2" a="E"><vh>w6-1</vh>
+<v t="leo.20170404172405.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170404172405.4" a="E"><vh>w6-2</vh>
+<v t="leo.20170404172405.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170404172405.6" a="E"><vh>w6-3</vh>
+<v t="leo.20170404172405.7"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -90,6 +181,475 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
+<t tx="leo.20170403201533.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170403201533.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170403201533.3">#W1 筆記內容
+
+##一.如何使用stunnel
+
+##二.ipconfig /all 查詢ip並修改
+
+##三.利用v-rep完成運動模擬
+</t>
+<t tx="leo.20170403201533.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170403201533.5">##更改stunnel.conf的IP設定
+
+&lt;iframe src="https://player.vimeo.com/video/207314525" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207314525"&gt;2017-03-08作業&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170403201533.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170403201533.7">##心得:這學期的任務功課會越來越難，不過要勇於嘗試，好的開始是成功的一半，加油。
+</t>
+<t tx="leo.20170403201655.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170403201655.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170403201655.3">#W2 筆記內容
+
+##一.利用python來分組並找出缺課人員
+
+##二.在solvespace組立後觀察運動方式
+
+</t>
+<t tx="leo.20170403201655.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170403201655.5">##利用solvespace畫出四連桿觀察運動方式
+
+&lt;iframe src="https://player.vimeo.com/video/211043203" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/211043203"&gt;觀察四連桿運動方式&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170403201655.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170403201655.7">##四連桿軌跡圖
+
+&lt;iframe src="https://player.vimeo.com/video/209041244" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209041244"&gt;四連桿軌跡圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170403201655.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170403201655.9">##心得:這次的四連桿模擬及路徑圖讓我大開眼界，未來工作也很實用。
+
+
+</t>
+<t tx="leo.20170403201658.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170403201658.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170403201658.11">##多連桿solvespace 組立
+
+&lt;iframe src="https://player.vimeo.com/video/208423680" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208423680"&gt;Fourbar(solve space)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170403201658.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170403201658.13">##多連桿onshape Link30
+
+&lt;iframe src="https://player.vimeo.com/video/208983301" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208983301"&gt;Link 30(Onshape)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+</t>
+<t tx="leo.20170403201658.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170403201658.15">##多連桿onshape Link50
+
+&lt;iframe src="https://player.vimeo.com/video/208984035" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208984035"&gt;Link 50(Onshape)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170403201658.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170403201658.17">##多連桿onshape Link60
+
+&lt;iframe src="https://player.vimeo.com/video/208986198" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208986198"&gt;Link 60(Onshape)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170403201658.18">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170403201658.19">##多連桿onshape  組立
+
+&lt;iframe src="https://player.vimeo.com/video/208996140" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208996140"&gt;Fourbar(Onshape)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170403201658.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170403201658.20">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170403201658.21">##心得:我覺得這次畫完圖後更加熟練solvespace和onshape的操作，尤其是組立的部分，複雜也蠻吃眼力的。
+</t>
+<t tx="leo.20170403201658.3">#W3 筆記內容
+
+##一.更改start的fossil路徑
+
+##二.繪製solvespace和onshape的多連桿機構
+
+</t>
+<t tx="leo.20170403201658.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170403201658.5">##多連桿solvespace Link30
+
+&lt;iframe src="https://player.vimeo.com/video/208421021" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208421021"&gt;Link-30&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+</t>
+<t tx="leo.20170403201658.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170403201658.7">##多連桿solvespace Link50
+
+&lt;iframe src="https://player.vimeo.com/video/208419586" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208419586"&gt;Link-50&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+</t>
+<t tx="leo.20170403201658.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170403201658.9">##多連桿solvespace Link60
+
+&lt;iframe src="https://player.vimeo.com/video/208420761" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208420761"&gt;Link-60&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+</t>
+<t tx="leo.20170403201702.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170403201702.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170403201702.3">#W5 筆記內容
+
+##一.Fossil SCM與Stunnel啟動整合
+
+##二.利用solvespace畫出的單連桿轉入V-rep並且加上馬達
+</t>
+<t tx="leo.20170403201702.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170403201702.5">##單連桿轉入v-rep加馬達
+
+&lt;iframe src="https://player.vimeo.com/video/210535267" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210535267"&gt;solvespace匯入v-rep加馬達&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170403201702.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170403201702.7">##心得:這次在V-rep加上joint(馬達)，過程中學到很多內建功能和英文單字，讓我有種要更加強英文的感覺，成功轉動後，讓我有成就感。
+
+
+</t>
+<t tx="leo.20170404163414.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170404163414.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170404163414.11">##單連桿onshape組立
+
+&lt;iframe src="https://player.vimeo.com/video/209062161" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209062161"&gt;單連桿機構(Onshape)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170404163414.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170404163414.13">##單連桿onshape轉入v-rep
+
+&lt;iframe src="https://player.vimeo.com/video/211076919" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/211076919"&gt;單連桿機構轉入v-rep(onshape)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170404163414.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170404163414.15">##心得:對於這週增加轉入v-rep的步驟，感覺v-rep的功能變更多，實用性比之前更好。
+</t>
+<t tx="leo.20170404163414.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170404163414.3">#W4 筆記內容
+
+##一.建立Fossil 將組員加入
+
+##二.繪製單連桿並轉入v-rep
+</t>
+<t tx="leo.20170404163414.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170404163414.5">##Fossil SCM倉儲
+
+每組要在https://mde2a2.kmol.info 主機上建倉儲:https://mde2a2.kmol.info/cdbg5
+</t>
+<t tx="leo.20170404163414.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170404163414.7">##單連桿solvespace 組立
+
+&lt;iframe src="https://player.vimeo.com/video/209043749" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209043749"&gt;繪製單連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170404163414.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170404163414.9">##單連桿solvespace轉入v-rep
+
+&lt;iframe src="https://player.vimeo.com/video/211058729" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/211058729"&gt;單連桿機構轉入v-rep(solvespace)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170404172405.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170404172405.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170404172405.3">#W6 筆記內容
+
+##一.多連桿運動模擬在v-rep
+
+##二.完成前幾週的作業並且下週打分數</t>
+<t tx="leo.20170404172405.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170404172405.5">##多連桿運動模擬在v-rep
+
+&lt;iframe src="https://player.vimeo.com/video/211155142" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/211155142"&gt;四連桿轉入v-rep&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170404172405.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170404172405.7">##心得:這週的作業特別有挑戰性，因為自己要畫出多連桿轉入v-rep並加馬達，過程中卡了蠻多的小細節，不過關關難過關關過，學到不少東西。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -253,81 +813,6 @@ make.start()</t>
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
-<t tx="yen.20170120110024.11">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="yen.20170120110024.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.13"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20170120110024.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.15">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.17">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
@@ -420,12 +905,12 @@ make.start()
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [40423210](https://40423210.github.io/2017springcd_hw/blog/)
 &lt;/small&gt;
 
 [協同產品設計實習課程網誌](blog/index.html)
 
-
+[Vimeo 影片](https://vimeo.com/user61434176)
 </t>
 <t tx="yen.20170120110024.9">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
