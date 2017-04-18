@@ -145,17 +145,22 @@
 <v t="leo.20170413135411.2" a="E"><vh>w7-1</vh>
 <v t="leo.20170413135411.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20170413135411.4" a="E"><vh>w7-2</vh>
-<v t="leo.20170413135411.5"><vh>內容</vh></v>
-</v>
-<v t="leo.20170413135411.6" a="E"><vh>w7-3</vh>
+<v t="leo.20170413135411.6" a="E"><vh>w7-2</vh>
 <v t="leo.20170413135411.7"><vh>內容</vh></v>
 </v>
-<v t="leo.20170413135411.8" a="E"><vh>w7-4</vh>
+<v t="leo.20170413135411.8" a="E"><vh>w7-3</vh>
 <v t="leo.20170413135411.9"><vh>內容</vh></v>
 </v>
-<v t="leo.20170413135411.14" a="E"><vh>w7-5</vh>
+<v t="leo.20170413135411.14" a="E"><vh>w7-4</vh>
 <v t="leo.20170413135411.15"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170418235627.1" a="E"><vh>20170412 w8</vh>
+<v t="leo.20170418235627.2" a="E"><vh>w8-1</vh>
+<v t="leo.20170418235627.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419000000.1" a="E"><vh>w8-2</vh>
+<v t="leo.20170419000000.2"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -684,7 +689,7 @@
 
 						
 </t>
-<t tx="leo.20170413135411.15">##心得:
+<t tx="leo.20170413135411.15">##心得:我覺得八連桿的組立真的好難喔，尤其是轉v-rep的部分，花費了很多的時間
 </t>
 <t tx="leo.20170413135411.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -702,18 +707,6 @@
 ##一.如何用Fossil推送
 
 ##二.組立八連桿機構並轉入v-rep</t>
-<t tx="leo.20170413135411.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170413135411.5">##如何用Fossil推送
-
-</t>
 <t tx="leo.20170413135411.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -741,6 +734,42 @@
 
 &lt;iframe src="https://player.vimeo.com/video/213030727" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/213030727"&gt;八連桿機構轉入v-rep加馬達&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170418235627.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170418235627.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170418235627.3">#W8 筆記內容
+
+</t>
+<t tx="leo.20170419000000.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419000000.2">
+
+&lt;p align="left"&gt;
+1. 小組互評: https://pygroup-ag100.rhcloud.com &lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 個人自評: http://mde1a2.kmol.info:8000/k96tgzh1ofbl &lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
