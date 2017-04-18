@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-29T16:00:00+08:00</updated><entry><title>2017/03/29 W6</title><link href="./2017spring-cd-W6.html" rel="alternate"></link><published>2017-03-29T16:00:00+08:00</published><updated>2017-03-29T16:00:00+08:00</updated><author><name>40423210</name></author><id>tag:,2017-03-29:./2017spring-cd-W6.html</id><summary type="html">&lt;h3&gt;多連桿運動模擬在v-rep&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-12T16:00:00+08:00</updated><entry><title>2017/04/12 W8</title><link href="./2017spring-cd-W8.html" rel="alternate"></link><published>2017-04-12T16:00:00+08:00</published><updated>2017-04-12T16:00:00+08:00</updated><author><name>40423210</name></author><id>tag:,2017-04-12:./2017spring-cd-W8.html</id><summary type="html">&lt;h3&gt;期中自評成績&lt;/h3&gt;
+
+&lt;p&gt;個人自評:&lt;a href="http://mde1a2.kmol.info:8000/k96tgzh1ofbl"&gt;http://mde1a2.kmol.info:8000/k96tgzh1ofbl&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;小組互評: &lt;a href="https://pygroup-ag100.rhcloud.com"&gt;https://pygroup-ag100.rhcloud.com&lt;/a&gt; &lt;/p&gt;</summary><category term="Notes  w8"></category></entry><entry><title>2017/04/05 W7</title><link href="./2017spring-cd-W7.html" rel="alternate"></link><published>2017-04-05T16:00:00+08:00</published><updated>2017-04-05T16:00:00+08:00</updated><author><name>40423210</name></author><id>tag:,2017-04-05:./2017spring-cd-W7.html</id><summary type="html">&lt;h2&gt;組立八連桿機構(solvespace)&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/213023653" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213023653"&gt;组立八連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h2&gt;將八連桿匯入v-rep並加入馬達&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/213030727" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213030727"&gt;八連桿機構轉入v-rep加馬達&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;心得:這次的作業花費的時間相當久，尤其是畫八連桿的時候，出錯了好幾次，終於發現問題點在哪裡了，非常有成就感。&lt;/p&gt;</summary><category term="Notes  w7"></category></entry><entry><title>2017/03/29 W6</title><link href="./2017spring-cd-W6.html" rel="alternate"></link><published>2017-03-29T16:00:00+08:00</published><updated>2017-03-29T16:00:00+08:00</updated><author><name>40423210</name></author><id>tag:,2017-03-29:./2017spring-cd-W6.html</id><summary type="html">&lt;h3&gt;多連桿運動模擬在v-rep&lt;/h3&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/211155142" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 

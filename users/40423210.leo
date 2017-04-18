@@ -141,6 +141,23 @@
 <v t="leo.20170404172405.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170413135411.1"><vh>20170405 w7</vh>
+<v t="leo.20170413135411.2" a="E"><vh>w7-1</vh>
+<v t="leo.20170413135411.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170413135411.4" a="E"><vh>w7-2</vh>
+<v t="leo.20170413135411.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170413135411.6" a="E"><vh>w7-3</vh>
+<v t="leo.20170413135411.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20170413135411.8" a="E"><vh>w7-4</vh>
+<v t="leo.20170413135411.9"><vh>內容</vh></v>
+</v>
+<v t="leo.20170413135411.14" a="E"><vh>w7-5</vh>
+<v t="leo.20170413135411.15"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -153,6 +170,8 @@
 <v t="leo.20170401131738.1"><vh>@edit 20170315.md</vh></v>
 <v t="leo.20170401220314.1"><vh>@edit 20170322.md</vh></v>
 <v t="leo.20170401222439.1"><vh>@edit 20170329.md</vh></v>
+<v t="leo.20170413134053.1"><vh>@edit 20170405.md</vh></v>
+<v t="leo.20170417172158.1"><vh>@edit 20170412.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -650,6 +669,78 @@
 </t>
 <t tx="leo.20170404172405.7">##心得:這週的作業特別有挑戰性，因為自己要畫出多連桿轉入v-rep並加馬達，過程中卡了蠻多的小細節，不過關關難過關關過，學到不少東西。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 </t>
+<t tx="leo.20170413135411.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170413135411.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170413135411.15">##心得:
+</t>
+<t tx="leo.20170413135411.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170413135411.3">#W7 筆記內容
+
+##一.如何用Fossil推送
+
+##二.組立八連桿機構並轉入v-rep</t>
+<t tx="leo.20170413135411.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170413135411.5">##如何用Fossil推送
+
+</t>
+<t tx="leo.20170413135411.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170413135411.7">##八連桿機構組立(solvespace)
+
+&lt;iframe src="https://player.vimeo.com/video/213023653" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213023653"&gt;组立八連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170413135411.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170413135411.9">##八連桿機構轉入v-rep
+
+&lt;iframe src="https://player.vimeo.com/video/213030727" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213030727"&gt;八連桿機構轉入v-rep加馬達&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
