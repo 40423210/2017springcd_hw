@@ -163,6 +163,17 @@
 <v t="leo.20170419000000.2"><vh>內容</vh></v>
 </v>
 </v>
+<v t="leo.20170426012430.1" a="E"><vh>20170419 w9</vh>
+<v t="leo.20170426012430.2" a="E"><vh>w9-1</vh>
+<v t="leo.20170426012430.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170426012430.4" a="E"><vh>w9-2</vh>
+<v t="leo.20170426012430.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170426012652.1" a="E"><vh>w9-3</vh>
+<v t="leo.20170426012652.2"><vh>內容</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -771,6 +782,65 @@
 
 &lt;p align="left"&gt;
 2. 個人自評: http://mde1a2.kmol.info:8000/k96tgzh1ofbl &lt;/p&gt;</t>
+<t tx="leo.20170426012430.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170426012430.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170426012430.3">#W9 筆記內容
+
+</t>
+<t tx="leo.20170426012430.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170426012430.5">##期中作業
+
+&lt;p align="left"&gt;
+一. Fossil Server 查驗 &lt;/p&gt;
+
+&lt;p align="left"&gt;
+二. 四連桿機構協同 Trace Point 查驗 &lt;/p&gt;
+
+&lt;p align="left"&gt;
+三. Fourbar Walker OnShape 零件協同繪圖與組立查驗 &lt;/p&gt;
+
+&lt;p align="left"&gt;
+四. 分組協同零件展示 &lt;/p&gt;
+
+</t>
+<t tx="leo.20170426012652.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170426012652.2">##四連桿機構協同 Trace Point 查驗
+
+&lt;iframe src="https://player.vimeo.com/video/213783714" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213783714"&gt;midterm2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
