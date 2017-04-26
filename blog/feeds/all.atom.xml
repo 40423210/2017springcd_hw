@@ -62,9 +62,9 @@ ctx.closePath()
 
 &lt;h3&gt;練習影片&lt;/h3&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/213783714" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/214882708" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/213783714"&gt;midterm2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214882708"&gt;midtern2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3&gt;Fourbar Walker OnShape 零件協同繪圖與組立&lt;/h3&gt;
 
@@ -103,7 +103,7 @@ ctx.closePath()
 &lt;p&gt;用onshape繪製&lt;/p&gt;
 
 &lt;p&gt;&lt;button onClick="lity('https://vimeo.com/209062161')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 單連桿&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;用solvespace轉入v-rep&lt;/p&gt;
+&lt;p&gt;40423205&lt;/p&gt;
 
 &lt;p&gt;&lt;button onClick="lity('https://vimeo.com/211058729')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 單連桿轉v-rep&lt;/button&gt;&lt;/p&gt;
 &lt;p&gt;用onshape轉入v-rep&lt;/p&gt;

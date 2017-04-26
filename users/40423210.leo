@@ -166,7 +166,7 @@
 <v t="leo.20170419000000.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170426012430.1"><vh>20170419 w9</vh>
+<v t="leo.20170426012430.1" a="E"><vh>20170419 w9</vh>
 <v t="leo.20170426012430.2" a="E"><vh>w9-1</vh>
 <v t="leo.20170426012430.3"><vh>內容</vh></v>
 </v>
@@ -845,8 +845,8 @@
 </t>
 <t tx="leo.20170426012652.2">##四連桿機構協同 Trace Point 查驗
 
-&lt;iframe src="https://player.vimeo.com/video/213783714" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/213783714"&gt;midterm2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;iframe src="https://player.vimeo.com/video/214882708" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214882708"&gt;midtern2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20170426230858.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
