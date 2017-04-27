@@ -103,7 +103,7 @@ ctx.closePath()
 &lt;p&gt;用onshape繪製&lt;/p&gt;
 
 &lt;p&gt;&lt;button onClick="lity('https://vimeo.com/209062161')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 單連桿&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;40423205&lt;/p&gt;
+&lt;p&gt;用solvespace轉入v-rep&lt;/p&gt;
 
 &lt;p&gt;&lt;button onClick="lity('https://vimeo.com/211058729')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 單連桿轉v-rep&lt;/button&gt;&lt;/p&gt;
 &lt;p&gt;用onshape轉入v-rep&lt;/p&gt;
