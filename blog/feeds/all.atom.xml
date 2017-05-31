@@ -155,6 +155,12 @@ n = 36
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
+
+ctx.beginPath()
+ctx.fillStyle = "   #2894FF"
+ctx.font = "35px ScriptS"
+ctx.fillText("40423210 ",440,350)
+ctx.stroke()
 &lt;/script&gt;</summary><category term="Notes  w15"></category></entry><entry><title>2017/04/19 W9</title><link href="./2017spring-cd-W9.html" rel="alternate"></link><published>2017-04-19T16:00:00+08:00</published><updated>2017-04-19T16:00:00+08:00</updated><author><name>40423210</name></author><id>tag:,2017-04-19:./2017spring-cd-W9.html</id><summary type="html">&lt;h2&gt;期中考試&lt;/h2&gt;
 &lt;h3&gt;四連桿機構協同 Trace Point 查驗&lt;/h3&gt;
 
